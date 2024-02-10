@@ -1,1 +1,2 @@
-"# Real-time-multi-room-chat-application" 
+# Real-time-multi-room-chat-application 
+## With Socket.io, Express.js, MongoDB
